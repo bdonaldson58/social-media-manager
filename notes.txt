@@ -1,0 +1,12 @@
+Fonts used
+-------------
+Where Used                    Font-Family                Size       Color
+
+
+
+
+
+
+Color Codes used
+-----------------------
+Where Used                Color Code
